@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=dracula)
 <!--
 **conghung0720/conghung0720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
