@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Readme Quotes](https://raw.githubusercontent.com/exelix11/SwitchThemeInjector/master/ThemeScreenshot.jpg)
 <!--
 **conghung0720/conghung0720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
